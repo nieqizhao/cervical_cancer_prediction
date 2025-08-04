@@ -1,6 +1,8 @@
 python==3.6
 catboost==0.26
 imbalanced-learn==0.7.0
+ipython==6.3.1
+ipython-genutils==0.2.0
 matplotlib==3.3.4
 numpy==1.19.5
 pandas==1.1.5
