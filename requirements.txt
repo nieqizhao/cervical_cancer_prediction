@@ -1,0 +1,12 @@
+python==3.6
+catboost==0.26
+imbalanced-learn==0.7.0
+matplotlib==3.3.4
+numpy==1.19.5
+pandas==1.1.5
+openpyxl==3.0.9
+scikit-learn==0.24.2
+scipy==1.5.4
+seaborn==0.11.2
+shap==0.41.0
+xgboost==1.5.2
